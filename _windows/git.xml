@@ -1,6 +1,6 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="https://github.com/MacroYau/ThingSpeakAndroid" />
+    <option name="myPathToGit" value="https://github.com/kiyongki/jemuran" />
     <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
   </component>
 </application>
